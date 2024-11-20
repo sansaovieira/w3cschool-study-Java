@@ -1,4 +1,4 @@
-package GetStart;
+package get.start;
 
 public class JavaOperators {
 
